@@ -10,6 +10,9 @@
 
 ---
 
+# ССЫЛКА НА ВИДЕО
+https://cloud.mail.ru/public/7cPc/SipZW1f6M
+
 ## Как запустить
 
 ```bash
