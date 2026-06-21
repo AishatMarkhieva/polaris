@@ -10,8 +10,12 @@
 
 ---
 
-# ССЫЛКА НА ВИДЕО
+# ССЫЛКА на видое
 https://cloud.mail.ru/public/7cPc/SipZW1f6M
+
+#ССЫЛКА на презентацию 
+https://cloud.mail.ru/public/yCha/zYGQofu1c
+
 
 ## Как запустить
 
