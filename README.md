@@ -14,7 +14,7 @@
 https://cloud.mail.ru/public/SUPn/dGkpUR8Lv
 
 #ССЫЛКА на презентацию 
-https://cloud.mail.ru/public/yCha/zYGQofu1c
+https://cloud.mail.ru/public/5wdH/92fbSAhFt
 
 
 ## Как запустить
